@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 <a href="mailto:2002nikhiltanwar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://www.instagram.com/_nikhiltanwar_"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   />
-</a>
 <br> <br>
 
 🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering. <br />
